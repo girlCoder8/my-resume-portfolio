@@ -38,4 +38,4 @@ This template comes with several essential features:
 - `storybook:build` – build production storybook bundle to `storybook-static`
 - `prettier:write` – formats all files with Prettier
 
-![girlCoder8's GitHub stats](https://github-readme-stats.vercel.app/api?username=girlCoder8&show_icons=true&theme=vue-dark)
+![girlCoder8's GitHub stats](https://github-readme-stats.vercel.app/api?username=girlCoder8&show_icons=true&theme=merko)
