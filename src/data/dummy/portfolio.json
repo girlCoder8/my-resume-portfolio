@@ -2,75 +2,84 @@
   "data": [
     {
       "id": 1,
-      "src": "/static/website-holding-mining.png",
-      "logoSrc": "/static/holding-mining-logo.png",
-      "title": "Holding Mining",
-      "job": "Backend Developer",
-      "stack": "ExpressJS, TypeORM, PostgreSQL, Docker",
-      "description": "Mine management website development, both from requests, finance, barges, etc."
+      "src": "/static/bg-wp.png",
+      "logoSrc": "/static/bg.png",
+      "title": "Automation Architect & Full Stack Web Developer",
+      "job": "Automation Frameworks",
+      "stack": "Python, JavaScript, Node.js, React.js, ExpressJS, , PostgreSQL",
+      "description": "Building automation frameworks from scratch. "
     },
     {
       "id": 2,
-      "src": "/static/website-trasmi.png",
-      "logoSrc": "/static/trasmi-logo.png",
-      "title": "Trasmi (Insurance)",
-      "job": "Backend Developer",
-      "stack": "ExpressJS, TypeORM, PostgreSQL, Docker",
-      "description": "Website development for buying insurance and claims, both Business to Customer and Business to Business."
+      "src": "/static/home-office-coder.png",
+      "logoSrc": "/static/bg.png",
+      "title": "My Home Office",
+      "job": "Automation Architect & Full Stack Web Developer",
+      "stack": "Python, Django, Streamlit, JavaScript, Node.js, ExpressJS, Next.js",
+      "description": "Performed front and back end development of manual processes There were several different projects that were being performed manually."
     },
     {
       "id": 3,
-      "src": "/static/website-app-karcisbola.png",
-      "logoSrc": "/static/karcisbola-logo.png",
-      "title": "Karcisbola",
-      "job": "Full Stack Developer",
-      "stack": "ExpressJS, TypeORM, PostgreSQL, NextJS, React Query, Formik, Mantine UI, Docker",
-      "description": "Website development for buying football tickets and prize draws."
+      "src": "/static/portfolio.png",
+      "logoSrc": "/static/bg.png",
+      "title": "My Portfolio",
+      "job": "Full Stack Web Developer",
+      "stack": "Python, Streamlit, JavaScript, Next.js, Node.js",
+      "description": "Development of Digital Dashboards of data provided by the client. Additionally, creating automation frameworks from scratch for manual processes."
     },
     {
       "id": 4,
-      "src": "/static/website-bri-agro-learning.png",
-      "logoSrc": "/static/bri-agro-logo.png",
-      "title": "BRI Agro LMS",
-      "job": "Full Stack Developer",
-      "stack": "ExpressJS, Sequelize, PostgreSQL, NextJS, React Query, Ant Design, Formik, Flutter",
+      "src": "/static/cdc-building.png",
+      "logoSrc": "/static/cdc.png",
+      "title": "Sr.QA Automation Engineer",
+      "job": "Responsible for developing dashboards, and frameworks to automate CDC data contained in Excel spreadsheets.",
+      "stack": "Python, Java, Selenium, PostgreSQL, HL7",
       "description": "Development of a learning management system website for internal BRI Agro."
     },
     {
       "id": 5,
-      "src": "/static/website-nadine.png",
-      "logoSrc": "/static/kemenkeu-logo.png",
-      "title": "Nadine (Kemenkeu)",
-      "job": "Backend Developer",
-      "stack": "Laravel, MongoDB, SSO, Docker, MinIO",
+      "src": "/static/cms.png",
+      "logoSrc": "/static/lilly.png",
+      "title": "Automation Architect",
+      "job": "BCforward: Client - Eli Lilly - Developed several automation frameworks using Python, JavaScript, AWS GitHub Actions., ",
+      "stack": "Python, JavaScript, Next.js, Node.js, HTML",
       "description": "The development of the old application, Nadine (Electronic Service Memorandum) focuses on electronic mail within the Ministry of Finance."
     },
     {
       "id": 6,
-      "src": "/static/website-kementan.png",
-      "logoSrc": "/static/kementan-logo.png",
-      "title": "SIMPEL (Kementan)",
-      "job": "Full Stack Developer",
-      "stack": "ExpressJS, Sequelize, MySQL, ReactJS, Bulma CSS, Formik",
-      "description": "The development of the old, simple application from the Ministry of Agriculture is more focused on licensing fertilizers and pesticides."
+      "src": "/static/mcd.jpg",
+      "logoSrc": "/static/capgemini.png",
+      "title": "Automation Architect",
+      "job": "McDonalds: The development of automation frameworks from scratch for Kiosk, POS, Mobile App, and Web applications.",
+      "stack": "Python, JavaScript, React.js, Perfecto Mobile, JMeter",
+      "description": "Analyze current environments in different departments and make Automation recommendations."
     },
     {
       "id": 7,
-      "src": "/static/website-indramayu-kependudukan.png",
-      "logoSrc": "/static/indramayu-logo.jpg",
-      "title": "Indramayu Kependudukan",
-      "job": "Full Stack Developer",
-      "stack": "ExpressJS, Sequelize, MySQL, ReactJS, Bulma CSS",
-      "description": "Development of the Indramayu population website (KTP, KK, and other documents) and integration with the Bandung City Samsat."
+      "src": "/static/mbs.jpg",
+      "logoSrc": "/static/ncr.png",
+      "title": "Software Engineer III",
+      "job": "Responsible for migrating a legacy desktop application to a web-based application.",
+      "stack": "C#, SoapUI Pro, Azure, JMeter",
+      "description": "Migration of a legacy desktop application to a web-based one. Worked at the SuperBowl, concerts and other events. Installed firmware on POS devices."
     },
     {
       "id": 8,
-      "src": "/static/website-indramayu-satu.png",
-      "logoSrc": "/static/indramayu-logo.jpg",
-      "title": "Indramayu All In One",
-      "job": "Full Stack Developer",
-      "stack": "ExpressJS, Sequelize, MySQL, ReactJS, Bootstrap",
-      "description": "Development of a smart city website Indramayu but more on information services and public complaints."
+      "src": "/static/g2germany.png",
+      "logoSrc": "/static/usarmy.png",
+      "title": "Accountant - Officer's Club Bills",
+      "job": "Gateway to Europe: Rhein Main Air Force Base; I lived in Germany for 6 years! I visited Paris, London, Holland and drove all throughout Germany!",
+      "stack": "Accounting & Bookkeeping ",
+      "description": "Responsible for the Officer's club bills accounting and bookkeeping. Meet with the Officers to discuss their bills."
+    },
+    {
+      "id": 9,
+      "src": "/static/ernst-young.png",
+      "logoSrc": "/static/ey.png",
+      "title": "Director: Mobile Testing",
+      "job": "Perfecto Mobile Analysis & Set up Mobile Test Automation Frameworks",
+      "stack": "Perfecto Mobile, Appium, iOS, Android,",
+      "description": "Traveled to Chandler, AZ to view Perfecto Mobile and select a Cloud solution for EY's mobile apps. Responsible for leading the analyzing and testing efforts of mobile testing of EY's apps. Determined the best appropirate Cloud automated testing tools for Ey's mobile apps."
     }
   ]
 }

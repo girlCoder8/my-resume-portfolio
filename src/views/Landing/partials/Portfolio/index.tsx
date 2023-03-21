@@ -109,9 +109,9 @@ export function Feature({
 function PortfolioSection() {
   const { classes } = portfolioStyles()
 
-  const title = 'Skill & Portfolio'
+  const title = 'My Work Portfolio'
   const description =
-    'My skills and experience gained while working on projects.'
+    "I have an ECLECTIC background and skillset!"
 
   const { data } = dummyData
 

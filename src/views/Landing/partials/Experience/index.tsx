@@ -111,8 +111,8 @@ function Feature({
 function ExperienceSection() {
   const { classes } = experienceStyle()
 
-  const title = 'Experience'
-  const description = 'My experience in both work and community.'
+  const title = 'Executive Summary'
+  const description = 'My EXTENSIVE work summary!'
 
   const { data } = dummyData
 

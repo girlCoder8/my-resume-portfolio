@@ -64,8 +64,8 @@ function Feature({ id, title, subTitle, description, period }: FeatureProps) {
 function EducationSection() {
   const { classes, cx } = educationStyles()
 
-  const title = 'Education & Certification'
-  const description = 'Education and certification that I have obtained.'
+  const title = 'Education'
+  const description = "I've earned multiple degrees!"
 
   const { data } = dummyData
 

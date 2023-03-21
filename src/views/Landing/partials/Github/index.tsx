@@ -34,8 +34,8 @@ function Feature({ id, title, repositoryURL, githubStatURL }: FeatureProps) {
 function GithubSection() {
   const { classes, cx } = githubStyles()
 
-  const title = 'My Open source github'
-  const description = 'My activities on open source github.'
+  const title = 'My GitHub Repos'
+  const description = 'My repos are content that interests me.'
 
   const { data } = dummyData
 
@@ -80,15 +80,15 @@ function GithubSection() {
         >
           <MyFrameMotion>
             <Image
-              src="https://github-readme-stats.vercel.app/api/top-langs/?username=masb0ymas&hide_border=true&layout=compact&theme=vue-dark"
-              alt="my github board"
+              src="https://github-readme-stats.vercel.app/api/top-langs/?username=girlCoder8&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"
+              alt="My Popular Languages"
             />
           </MyFrameMotion>
 
           <MyFrameMotion>
             <Image
-              src="https://github-readme-stats.vercel.app/api?username=masb0ymas&show_icons=true&hide_border=true&theme=vue-dark"
-              alt="my github board"
+              src="https://github-readme-streak-stats.herokuapp.com/?user=girlCoder8&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"
+              alt="my GitHub Stats"
             />
           </MyFrameMotion>
         </SimpleGrid>

@@ -2,10 +2,33 @@
 	"data": [
 		{
 			"id": 1,
-			"title": "Computer Science",
-			"subTitle": "Universitas Putra Indonesia YPTK Padang",
-			"description": "I continue my education in computer science, understand how to analyze a problem and find a solution, then this is applied to an application / software. Besides that, we also understand AI in broad outline, not in detail, such as: machine learning, deep learning, and neural networks.",
-			"period": "Agust 2013 - Mar 2017"
+			"title": "Brenau University",
+			"subTitle": "MBA: Business Administration",
+			"description": "Magna Cum Laude - Graduated with Honors!",
+			"period": "Graduated with Honors!"
+		},
+
+		{
+			"id": 2,
+			"title": "DeVry University",
+			"subTitle": "BS: Computer Information Systems",
+			"description": "Magna Cum Laude - Graduated with Honors!",
+			"period": "Graduated with Honors!"
+		},
+		{
+			"id": 3,
+			"title": "Limestone University",
+			"subTitle": "BS: Business Administration/Minor: Management",
+			"description": "Magna Cum Laude - Graduated with Honors!",
+			"period": "Graduated with Honors!"
+		},
+
+		{
+			"id": 4,
+			"title": "Aiken Technical College",
+			"subTitle": "AS: Accounting/Minor: Business",
+			"description": "Cum Laude - Graduated with Honors!",
+			"period": "Graduated with Honors!"
 		}
 	]
 }

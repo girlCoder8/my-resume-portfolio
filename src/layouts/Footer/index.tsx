@@ -63,29 +63,29 @@ function Footer() {
   return (
     <div className={classes.footer}>
       <Container className={classes.inner} size={1280}>
-        <Link href="https://github.com/masb0ymas" passHref>
+        <Link href="https://github.com/girlCoder8" passHref>
           <UnstyledButton component="a" target="_blank">
             <Group noWrap spacing="xs">
               <IconBrandGithub size={28} />
-              <Text style={{ fontWeight: 600 }}>@masb0ymas</Text>
+              <Text style={{ fontWeight: 600 }}>@girlCoder8</Text>
             </Group>
           </UnstyledButton>
         </Link>
 
         <Group spacing={0} className={classes.links} position="right" noWrap>
-          <Link href="https://www.linkedin.com/in/masb0ymas/" passHref>
+          <Link href="https://www.linkedin.com/in/barb-gordon-aka-batgirl/" passHref>
             <ActionIcon size="lg" component="a" target="_blank">
               <IconBrandLinkedin size={18} stroke={1.5} />
             </ActionIcon>
           </Link>
 
-          <Link href="https://twitter.com/masb0ymas" passHref>
+          <Link href="https://twitter.com/" passHref>
             <ActionIcon size="lg" component="a" target="_blank">
               <IconBrandTwitter size={18} stroke={1.5} />
             </ActionIcon>
           </Link>
 
-          <Link href="https://www.instagram.com/masb0ymas/" passHref>
+          <Link href="https://www.instagram.com/" passHref>
             <ActionIcon size="lg" component="a" target="_blank">
               <IconBrandInstagram size={18} stroke={1.5} />
             </ActionIcon>
@@ -94,10 +94,10 @@ function Footer() {
       </Container>
 
       <Link
-        href="https://api.whatsapp.com/send/?phone=+6287837554403&text=Hi, I am interested in your portfolio, would you be willing to discuss it with me?"
+        href="https://api.whatsapp.com/send/?phone=+555555555text=Hello, I am interested in your portfolio, so when are you available to speak with me?"
         passHref
       >
-        <Tooltip label="Hire me..." position="left" withArrow>
+        <Tooltip label="Super SMART professional with an ECLECTIC background and skillset..." position="left" withArrow>
           <UnstyledButton className={classes.floatButton}>
             <IconBrandWhatsapp size={40} />
           </UnstyledButton>

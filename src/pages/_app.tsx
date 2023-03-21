@@ -10,7 +10,7 @@ import { AppProps } from 'next/app'
 import Head from 'next/head'
 import { useState } from 'react'
 
-const cookieName = 'masb0ymas-resume'
+const cookieName = 'girlCoder8-resume'
 
 export default function App(props: AppProps & { colorScheme: ColorScheme }) {
   const { Component, pageProps } = props
@@ -26,8 +26,8 @@ export default function App(props: AppProps & { colorScheme: ColorScheme }) {
   }
 
   const title = 'Resume'
-  const description = 'My Resume ( masb0ymas )'
-  const metaURL = 'https://masb0ymas.netlify.app/'
+  const description = 'My Resume ( girlCoder8 )'
+  const metaURL = 'https://batgirl.vercel.app/'
   const metaImage = '/static/github-logo.png'
   const webIconURL = '/static/github-logo.png'
 

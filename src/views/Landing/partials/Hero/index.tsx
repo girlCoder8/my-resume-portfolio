@@ -17,18 +17,18 @@ function HeroSection() {
       <div className={classes.inner}>
         <MyFrameMotion>
           <Center my="md">
-            <Avatar size="xl" radius="xl" src="/static/avatar.jpeg" />
+            <Avatar size="xl" radius="xl" src="/static/avatar.png" />
           </Center>
           <Title className={classes.title}>
-            {`Halo, i'm `}
+            {`Hello, I'm `}
             <Text component="span" className={classes.highlight} inherit>
-              Nurul Fajri
+              Barb Gordon
             </Text>
           </Title>
 
           <Container p={0} size={600}>
             <Text size="lg" color="dimmed" className={classes.description}>
-              Software Engineer at <b>Karcisbola</b>,
+              Automation Architect & Full Stack Web Developer!
             </Text>
             <Text
               mt={10}
@@ -36,9 +36,10 @@ function HeroSection() {
               color="dimmed"
               className={classes.description}
             >
-              Currently I work as a software engineer at <b>Karcisbola</b>, I
-              like sports and also traveling. On the other hand, I also enjoy
-              learning new things, both in technology and other fields.
+              Currently I work as a <b>Lead QA Automation Engineer</b> for <b>Apex Systems at the Client: Centura Health</b>, I
+              enjoy learning new things, i.e., AI/ML and ChatGPT. Additionally, I enjoy working in the Automation field, developing
+              very creative web applications, working on automation and other new development technologies.
+
             </Text>
           </Container>
         </MyFrameMotion>
