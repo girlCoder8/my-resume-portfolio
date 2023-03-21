@@ -39,3 +39,5 @@ This template comes with several essential features:
 - `prettier:write` – formats all files with Prettier
 
 [![girlCoder8's GitHub stats](https://github-readme-stats.vercel.app/api?username=girlCoder8)](https://github.com/girlCoder8/github-readme-stats)
+
+![girlCoder8's GitHub stats](https://github-readme-stats.vercel.app/api?username=girlCoder8&show_icons=true&theme=vue-dark)
