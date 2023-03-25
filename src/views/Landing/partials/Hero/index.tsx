@@ -36,7 +36,7 @@ function HeroSection() {
               color="dimmed"
               className={classes.description}
             >
-              Currently I work as a <b>Lead QA Automation Engineer</b> for <b>Apex Systems at the Client: Centura Health</b>, I
+              Currently I work as a <b>Consultant</b> for <b>Apex Systems at the Client: Centura Health</b>, I
               enjoy learning new things, i.e., AI/ML and ChatGPT. Additionally, I enjoy working in the Automation field, developing
               very creative web applications, working on automation and other new development technologies.
 
