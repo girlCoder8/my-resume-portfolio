@@ -24,5 +24,17 @@
       "repositoryURL": "https://github.com/girlCoder8/tesla-inventory",
       "githubStatURL": "https://github-readme-stats.vercel.app/api/pin/?username=girlCoder8&repo=tesla-inventory&theme=merko"
     }
+    {
+      "id": 5,
+      "title": "",
+      "repositoryURL": "https://github.com/girlCoder8/jira-kanban-board.git",
+      "githubStatURL": "https://github-readme-stats.vercel.app/api/pin/?username=girlCoder8&repo=jira-kanban-board&theme=merko"
+    }
+   {
+      "id": 6,
+      "title": "",
+      "repositoryURL": "https://github.com/girlCoder8/python-training-course.git",
+      "githubStatURL": "https://github-readme-stats.vercel.app/api/pin/?username=girlCoder8&repo=python-training-course&theme=merko"
+    }
   ]
 }
