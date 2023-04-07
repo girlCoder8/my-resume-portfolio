@@ -37,7 +37,7 @@ function HeroSection() {
               className={classes.description}
             >
               Currently I work as a <b>Freelance - Sr. Consultant</b> for <b>an EST client.</b>, I
-              enjoy learning new things, i.e., AI/ML and data analysis types of projects. Additionally, I enjoy working in the Automation field, developing
+              enjoy learning new things, i.e., Automation, ML or data analysis types of projects. Additionally, I enjoy working in the Automation field, developing
               very creative web applications, working on automation and the aforementioned technologies.
 
             </Text>
