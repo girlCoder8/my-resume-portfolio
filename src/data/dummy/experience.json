@@ -6,8 +6,8 @@
       "subTitle": "Freelance work until I'm hired FULL TIME!",
       "icon": "device-laptop",
       "description": "Build automation frameworks from scratch & build web & mobile apps",
-      "period": "Mar 2023 - Present",
-      "distance": "2023-03-01",
+      "period": "Mar 2018 - Present",
+      "distance": "2018-03-01",
       "isActive": true
     },
     {
@@ -26,18 +26,18 @@
       "subTitle": "Consultant",
       "icon": "device-laptop",
       "description": "Built several web applications using: Selenium, Cucumber, Python & JavaScript",
-      "period": "Feb 2015 - Oct 2021",
-      "distance": "2015-02-20",
+      "period": "Feb 2018 - Nov 2022",
+      "distance": "2019-02-18",
       "isActive": true
     },
     {
       "id": 4,
-      "title": "Software Engineer",
+      "title": "Sr. Software Engineer",
       "subTitle": "Consultant",
       "icon": "device-laptop",
-      "description": "Built automation frameworks & Mobile apps from scratch using: Swift, Java, C & C#",
-      "period": "Feb 2000 - Feb 2015",
-      "distance": "2000-02-08",
+      "description": "Built automation frameworks & Mobile apps from scratch using: Swift, Python, JavaScript",
+      "period": "Feb 2018 - Feb 2021",
+      "distance": "2018-02-08",
       "isActive": true
     }
   ]
