@@ -27,7 +27,7 @@ export default function App(props: AppProps & { colorScheme: ColorScheme }) {
 
   const title = 'Resume'
   const description = 'My Resume ( girlCoder8 )'
-  const metaURL = 'https://batgirl.vercel.app/'
+  const metaURL = 'https://my-profile-resume.vercel.app/'
   const metaImage = '/static/github-logo.png'
   const webIconURL = '/static/github-logo.png'
 
