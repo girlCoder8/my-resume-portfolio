@@ -4,8 +4,8 @@
       "id": 1,
       "src": "/static/bg-wp.png",
       "logoSrc": "/static/bg.png",
-      "title": "Automation Architect & Full Stack Web Developer",
-      "job": "Automation Frameworks",
+      "title": "Solutions Architect",
+      "job": "Solution/Automation Frameworks",
       "stack": "Python, JavaScript, Node.js, React.js, ExpressJS, , PostgreSQL",
       "description": "Building automation frameworks from scratch. "
     },
@@ -14,7 +14,7 @@
       "src": "/static/home-office-coder.png",
       "logoSrc": "/static/bg.png",
       "title": "My Home Office",
-      "job": "Automation Architect & Full Stack Web Developer",
+      "job": "Solutions Architect",
       "stack": "Python, Django, Streamlit, JavaScript, Node.js, ExpressJS, Next.js",
       "description": "Performed front and back end development of manual processes There were several different projects that were being performed manually."
     },

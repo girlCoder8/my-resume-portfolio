@@ -28,7 +28,7 @@ function HeroSection() {
 
           <Container p={0} size={600}>
             <Text size="lg" color="dimmed" className={classes.description}>
-              Automation Architect & Full Stack Web Developer!
+              Solutions & Automation Architect!
             </Text>
             <Text
               mt={10}
@@ -36,9 +36,9 @@ function HeroSection() {
               color="dimmed"
               className={classes.description}
             >
-              Currently I work as a <b>Freelance - Sr. Consultant</b> for <b>an EST client.</b>, I
-              enjoy learning new things, i.e., Automation, ML or data analysis types of projects. Additionally, I enjoy working in the Automation field, developing
-              very creative web applications, working on automation and the aforementioned technologies.
+              Currently I work as a <b>Sr. Consultant</b><b> providing automation development solutions for Web, Mobile, API, and Cloud applications.</b>, I
+              enjoy learning new things, i.e., AI/ML. Additionally, I enjoy working in the Solutions Architect, Automation field, and developing
+              very creative web applications, working on automation and other new development technologies.
 
             </Text>
           </Container>

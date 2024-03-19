@@ -4,25 +4,25 @@
       "id": 1,
       "title": "girlCoder8",
       "repositoryURL": "https://github.com/girlCoder8/girlCoder8",
-      "githubStatURL": "https://github-readme-stats.vercel.app/api/pin/?username=girlCoder8&repo=girlCoder8&theme=vue-dark"
+      "githubStatURL": "https://github-readme-stats.vercel.app/api/pin/?username=girlCoder8&repo=girlCoder8&theme=merko"
     },
     {
       "id": 2,
-      "title": "dupeSuggestions",
-      "repositoryURL": "https://github.com/girlCoder8/scrabble-game",
-      "githubStatURL": "https://github-readme-stats.vercel.app/api/pin/?username=scrabble-game&repo=girlCoder8&theme=vue-dark"
+      "title": "chatbot-ai",
+      "repositoryURL": "https://github.com/girlCoder8/chatbot-ai",
+      "githubStatURL": "https://github-readme-stats.vercel.app/api/pin/?username=girlCoder8&repo=chatbot-ai&theme=merko"
     },
     {
       "id": 3,
       "title": "ai-resume-builder",
       "repositoryURL": "https://github.com/girlCoder8/ai-resume-builder",
-      "githubStatURL": "https://github-readme-stats.vercel.app/api/pin/?username=ai-resume-builder&repo=girlCoder8&theme=vue-dark"
+      "githubStatURL": "https://github-readme-stats.vercel.app/api/pin/?username=girlCoder8&repo=ai-resume-builder&theme=merko"
     },
     {
       "id": 4,
       "title": "tesla-inventory",
       "repositoryURL": "https://github.com/girlCoder8/tesla-inventory",
-      "githubStatURL":  "https://github-readme-stats.vercel.app/api/pin/?username=&repo=tesla-inventory&theme=vue-dark"
+      "githubStatURL": "https://github-readme-stats.vercel.app/api/pin/?username=girlCoder8&repo=tesla-inventory&theme=merko"
     },
     {
       "id": 5,
@@ -30,11 +30,47 @@
       "repositoryURL": "https://github.com/girlCoder8/jira-kanban-board",
       "githubStatURL": "https://github-readme-stats.vercel.app/api/pin/?username=girlCoder8&repo=jira-kanban-board&theme=merko"
     },
-    {
+   {
       "id": 6,
       "title": "python-training-course",
       "repositoryURL": "https://github.com/girlCoder8/python-training-course",
       "githubStatURL": "https://github-readme-stats.vercel.app/api/pin/?username=girlCoder8&repo=python-training-course&theme=merko"
+    },
+    {
+      "id": 7,
+      "title": "mortgage-data-analysis",
+      "repositoryURL": "https://github.com/girlCoder8/mortgage-data-analysis",
+      "githubStatURL": "https://github-readme-stats.vercel.app/api/pin/?username=girlCoder8&repo=mortgage-data-analysis&theme=merko"
+    },
+    {
+      "id": 8,
+      "title": "scrabble-game",
+      "repositoryURL": "https://github.com/girlCoder8/scrabble-game",
+      "githubStatURL": "https://github-readme-stats.vercel.app/api/pin/?username=girlCoder8&repo=scrabble-game&theme=merko"
+    },
+    {
+      "id": 9,
+      "title": "CatYears",
+      "repositoryURL": "https://github.com/girlCoder8/CatYears",
+      "githubStatURL": "https://github-readme-stats.vercel.app/api/pin/?username=girlCoder8&repo=CatYears&theme=merko"
+    },
+    {
+      "id": 10,
+      "title": "tesla-inventory",
+      "repositoryURL": "https://github.com/girlCoder8/tesla-inventory",
+      "githubStatURL": "https://github-readme-stats.vercel.app/api/pin/?username=girlCoder8&repo=tesla-inventory&theme=merko"
+    },
+    {
+      "id": 11,
+      "title": "covid19-data-analysis",
+      "repositoryURL": "https://github.com/girlCoder8/covid19-data-analysis",
+      "githubStatURL": "https://github-readme-stats.vercel.app/api/pin/?username=girlCoder8&repo=covid19-data-analysis&theme=merko"
+    },
+    {
+      "id": 12,
+      "title": "generate-mp3-files",
+      "repositoryURL": "https://github.com/girlCoder8/generate-mp3-files",
+      "githubStatURL": "https://github-readme-stats.vercel.app/api/pin/?username=girlCoder8&repo=generate-mp3-files&theme=merko"
     }
   ]
 }
