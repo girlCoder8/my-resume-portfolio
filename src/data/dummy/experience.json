@@ -2,22 +2,22 @@
   "data": [
     {
       "id": 1,
-      "title": "Lead Automation Test Engineer | QA Team Lead",
-      "subTitle": "Apex Systems - Client: Centura Health",
+      "title": "Automation Architect | Full Stack Web Developer",
+      "subTitle": "AI/ML Freelance work for different clients!",
       "icon": "device-laptop",
-      "description": "Apex Systems - Client: Centura Health",
-      "period": "Mar 2022 - Present",
-      "distance": "2022-03-01",
+      "description": "Build automation frameworks from scratch & build web & mobile apps",
+      "period": "Mar 2018 - Present",
+      "distance": "2018-03-01",
       "isActive": true
     },
     {
       "id": 2,
       "title": "Automation Architect",
-      "subTitle": "Apex Systems - Client: USDA/FEMA",
+      "subTitle": "BCforward - Client: Eli Lilly",
       "icon": "device-laptop",
-      "description": "Built automation frameworks in Java-based automation frameworks.",
-      "period": "Sep 2021 - Apr 2022",
-      "distance": "2021-09-01",
+      "description": "Automated manual processes using Python, JavaScript, PowerBi",
+      "period": "Nov 2021 - Feb 2023",
+      "distance": "2021-11-15",
       "isActive": true
     },
     {
@@ -25,19 +25,19 @@
       "title": " Automation Architect",
       "subTitle": "Consultant",
       "icon": "device-laptop",
-      "description": "Built several web applications using React.js, Node.js, Next.js, and ExpressJS,",
-      "period": "Feb 2015 - Sep 2021",
-      "distance": "2015-02-20",
+      "description": "Built several web applications using: Selenium, Cucumber, Python & JavaScript",
+      "period": "Feb 2018 - Nov 2022",
+      "distance": "2019-02-18",
       "isActive": true
     },
     {
       "id": 4,
-      "title": "Full Stack Web Developer",
+      "title": "Sr. Software Engineer",
       "subTitle": "Consultant",
       "icon": "device-laptop",
-      "description": "Building automation frameworks from scratch and developing CMS websites using React.js or Next.js.",
-      "period": "Feb 2000 - Feb 2015",
-      "distance": "2000-02-08",
+      "description": "Built automation frameworks & Mobile apps from scratch using: Swift, Python, JavaScript",
+      "period": "Feb 2018 - Feb 2021",
+      "distance": "2018-02-08",
       "isActive": true
     }
   ]
